@@ -1,0 +1,10 @@
+__pycache__/
+*.pyc
+*.npy
+*.pdf
+.venv/
+*.traj 
+md.log_*
+mace_*.out
+mace_*.err
+gpu_*.csv
